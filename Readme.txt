@@ -17,7 +17,7 @@ Things not works
 WIFI
 Ethernet Port
 
-i normally use wifi adapter and My uni USB tethering as they block my wifi adapter because of hackintosh. However, Its work pretty well.
+i normally use wifi adapter and at uni USB tethering as they block my wifi adapter because of hackintosh. However, Its work pretty well.
 
 
 CPU:Intel i5-7200U
