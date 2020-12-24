@@ -2,6 +2,8 @@ Hackintosh EFI BIG-SUR READY!!
 
 Opencore Version 0.6.4 
 
+Acer E15 E5-575G-57D4
+
 Features Added
 -----------------
 Usb Tethering--
