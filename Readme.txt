@@ -7,6 +7,7 @@ Acer E15 E5-575G-57D4
 Features Added
 -----------------
 Usb Tethering--
+Realtek USB wifi Support out of box with wifi icon--
 
 Things works
 --------------
