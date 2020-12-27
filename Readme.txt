@@ -9,8 +9,8 @@ Features Added
 Usb Tethering--
 Realtek USB wifi Support out of box with wifi icon-- Thanks to- chris1111
 
-Devices checked
----------------
+Devices checked by @chris1111
+------------------------------
 Known Working and testing adapter
 Alfa AWUS036ACH
 Archer T2U NANO
@@ -40,15 +40,15 @@ TL-WN821Nv6
 TL-WN822Nv5
 TRENDnet N150 Micro
 TRENDnet TEW-908UB
---------------
+-------------------
 
 
 Things works
---------------
+-------------
 Almost Everything
 
 Things not works
--------------------
+-----------------
 WIFI
 Ethernet Port
 
